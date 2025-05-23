@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![alexjjohnson91's Stats](https://github-readme-stats.vercel.app/api?username=alexjjohnson91&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <!--
 **alexjjohnson91/alexjjohnson91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
