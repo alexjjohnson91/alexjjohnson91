@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![alexjjohnson91's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexjjohnson91&theme=default&hide_border=true)
 
 <!--
